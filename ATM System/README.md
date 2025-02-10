@@ -15,7 +15,6 @@ A simple ATM system implemented in **Dart**, following **OOP principles** with t
 
 ## 🛠️ Technologies Used
 - **Dart**
-- **Flutter** (if UI is planned)
 - **OOP Principles**
 - **Git & GitHub**
 
